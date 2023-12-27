@@ -14,7 +14,7 @@ npm install
 
 ## Replicate 
 
-You will need a .env.local file to query the following Replicate key token:
+You will need a .env.local file to query Replicate with an auth token:
 
 REPLICATE_API_TOKEN="KEY"
 
