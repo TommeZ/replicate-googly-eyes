@@ -4,13 +4,21 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 https://replicate-googly-eyes-main.vercel.app/
 
-## Run Locally
+## Install Dependencies
 
 First install dependencies
 
 ```bash
 npm install
 ```
+
+## Replicate 
+
+You will need a .env.local file to query the following Replicate key token:
+
+REPLICATE_API_TOKEN="KEY"
+
+## Run Locally
 
 Then run the development server:
 
